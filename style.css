@@ -1,0 +1,22 @@
+
+body{
+background-size: cover;
+}
+.heading{
+    color: white;
+font-size:23px ;
+width: 100%;
+margin:0px;
+background-color: blueviolet;
+}
+.note{
+    font-size: 15px;
+    color: white;
+    padding: 80px;
+}
+#songName{
+    color: white;
+    background-color: blueviolet;
+    margin: 15px;
+    width: 150px;
+}
